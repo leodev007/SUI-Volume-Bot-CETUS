@@ -66,7 +66,7 @@ npm run gather
 
 ### Twitter: [@KEI_NOVAK](https://twitter.com/kei_4650)   
 
-### Telegram: [@Rabnail_SOL](https://t.me/Kei4650)   
+### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
 
 
 You can always find me here, for help, or for other projects.
