@@ -37,7 +37,7 @@ POOL_ID=0x1de5cc16141c21923bfca33db9bb6c604de5760e4498e75ecdfcf80d62fb5818
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/Rabnail-SOL/SUI-Volume-Bot-CETUS.git
+git clone https://github.com/leodev007/SUI-Volume-Bot-CETUS.git
 cd SUI-Volume-Bot-CETUS
 ```
 ### 2. Install dependencies
@@ -64,9 +64,9 @@ npm run gather
 
 # 👤 Author
 
-### Twitter: [@KEI_NOVAK](https://twitter.com/kei_4650)   
+### Twitter: [@LEO](https://twitter.com/leodev)   
 
-### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
+### Telegram: [@LEO](https://t.me/leodev)   
 
 
 You can always find me here, for help, or for other projects.
